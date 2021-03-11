@@ -121,6 +121,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
+    - name: Uncategorized
+      untitled: true
 
 
   # These are your systems. Change them to
