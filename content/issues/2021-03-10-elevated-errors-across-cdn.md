@@ -10,10 +10,6 @@ affected:
 section: issue
 ---
 
-*Resolved* - This incident has been resolved.
+### Incident postmortem
 
-*Monitoring* - A fix has been implemented and we are monitoring the results.
-
-*Identified* - The issue has been identified and a fix is being implemented.
-
-*Investigating* - We are currently investigating this issue.
+We concluded that this incident occured due to an accidental altering of a DNS record. The DNS record has been rectified and we have put safegaurds in place to insure that such an incident will not occur again.
