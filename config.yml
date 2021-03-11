@@ -133,14 +133,19 @@ params:
   systems:
     - name: Website
       description: Our website at desica.uk
+      category: All services
     - name: CDN
-      description: Static assets storage used by all applications.
+      description: Static assets storage used by all applications
+      category: All services
     - name: Desikit
       description: The Desica design system
+      category: All services
     - name: Desiads site
-      description: The Desica ads network site.
+      description: The Desica ads network site
+      category: All services
     - name: Desiads API
-      description: The Desica ads network API.
+      description: The Desica ads network API
+      category: All services
 
   # What date format to use?
   #
