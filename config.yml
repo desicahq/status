@@ -214,7 +214,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: logo.png
+  logo: https://static.desica.uk/hotlink-ok/Logo-Prod-Transparent-Purple%40Small.png
 
   # This is the description that is shown
   # on the footer and meta tags.
@@ -261,7 +261,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#a239c5"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
