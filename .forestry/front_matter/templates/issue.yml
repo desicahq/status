@@ -54,3 +54,5 @@ fields:
     required: false
   label: Section
   default: issue
+pages:
+- content/issues/deployment-of-new-homepage.md
