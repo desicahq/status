@@ -9,3 +9,6 @@ severity = "notice"
 title = "Deployment of new homepage"
 
 +++
+### Big news!
+
+Our dev team have been hard at work.
