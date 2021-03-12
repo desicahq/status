@@ -1,4 +1,56 @@
 ---
 label: Issue
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Date created
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: true
+    export_format: ''
+- name: resolved
+  type: boolean
+  label: Resolved
+- name: resolvedWhen
+  type: datetime
+  label: Resolved on
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: true
+- name: severity
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - down
+    - disrupted
+    - notice
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Severity
+- name: affected
+  type: tag_list
+  default: []
+  label: Affected components
+- name: section
+  type: text
+  config:
+    required: false
+  label: Section
+  default: issue
