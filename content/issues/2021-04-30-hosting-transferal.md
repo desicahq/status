@@ -12,6 +12,6 @@ affected:
 section: issue
 ---
 
-# Transering
+# Transfering
 
 We are currently transfering our services to a new hosting provider.
