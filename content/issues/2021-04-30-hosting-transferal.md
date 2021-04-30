@@ -11,6 +11,6 @@ affected:
 section: issue
 ---
 
-# Transferd
+# Transferred
 
 We have completed transfering some of our services to a new hosting provider.
