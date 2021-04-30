@@ -1,7 +1,7 @@
 ---
 title: Hosting transferal
 date: 2021-04-30 16:00:00
-resolved: true
+resolved: false
 resolvedWhen: 2021-04-30 16:45:00
 # Possible severity levels: down, disrupted, notice
 severity: down
